@@ -12,5 +12,4 @@
     <artifactId>boot-template-api</artifactId>
     <version>${api.version}</version>
 
-
 </project>
